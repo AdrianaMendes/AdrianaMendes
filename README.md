@@ -6,5 +6,3 @@ Hi, I'm Adriana Mendes, a Front End Developer 🚀 from Brazil, currently, I'm s
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> <a href="https://www.instagram.com/adri7mendes/"> <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 ![](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
-
-![Made with love in Brazil](https://madewithlove.now.sh/br?heart=true&template=for-the-badge)
