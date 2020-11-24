@@ -7,5 +7,5 @@ Hi, I'm Adriana Mendes, a Front End Developer 🚀 from Brazil, currently, I'm s
 
 
 
-<img src="img/dry.png" style="zoom:100%;" />
+<img src="img/dry1.png" style="zoom:100%;" />
 
