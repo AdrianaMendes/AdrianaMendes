@@ -11,5 +11,5 @@ Hi, I'm Adriana Mendes, currently, I'm Studying Computer Engineering at [UFOP](h
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianaMendes&layout=compact&hide=html,eagle,css&title_color=6bbbca)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianaMendes&layout=compact&hide=html,eagle,css&title_color=EE82EE)
 
