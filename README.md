@@ -1,4 +1,4 @@
-# Hello World! 😄 
+# Hello World! 
 
 Hi, I'm Adriana Mendes, currently, I'm Studying Computer Engineering at [UFOP](https://ufop.br/)  🚀 . 
 
