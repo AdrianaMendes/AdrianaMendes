@@ -1,6 +1,9 @@
-## Olá Devs🖖
+<h1 align='center'>
+   Olá Devs🖖
+</h1>
 
-Sejam bem vindos ao meu perfil do Github. Meu nome é Adriana, sou engenheira de computação e apaixonada por tecnologia. Caso deseje entrar em contato comigo segue abaixo meus endereço eletrônico:
+
+Sejam bem vindos ao meu perfil do Github. Meu nome é Adriana Mendes, sou engenheira de computação e apaixonada por tecnologia. Caso deseje entrar em contato comigo segue abaixo meus endereço eletrônico:
 
 <div align="center"><a href="https://www.linkedin.com/in/adriana-mirian-mendes-cardoso/"></a></div>
 
