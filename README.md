@@ -1,5 +1,5 @@
 <h1 align='center'>
-   Olá Devs🖖
+   Olá Devs 👋
 </h1>
 
 
