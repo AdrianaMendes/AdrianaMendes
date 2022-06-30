@@ -16,5 +16,13 @@ Sejam bem vindos ao meu perfil do Github. Meu nome é Adriana Mendes, sou engenh
 
 ## 🔧 Ferramentas e Tecnologias
 
-<img src="https://img.shields.io/badge/eclipse-2C2255?&style=flat-square&logo=eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396.svg?&style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/-Visual_Code-007ACC?&style=flat-square&logo=visual-studio-code&logoColor=white"/><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/postgresql-4169E1.svg?&style=flat-square&logo=postgresql&logoColor=white"/>
-
+<h1 align='center'>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+</h1>
