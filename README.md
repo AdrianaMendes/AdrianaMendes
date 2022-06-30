@@ -5,7 +5,13 @@
 
 Sejam bem vindos ao meu perfil do Github. Meu nome é Adriana Mendes, sou engenheira de computação e apaixonada por tecnologia. Caso deseje entrar em contato comigo segue abaixo meus endereço eletrônico:
 
-<div align="center"><a href="https://www.linkedin.com/in/adriana-mirian-mendes-cardoso/"></a></div>
+<a href="https://www.instagram.com/_adrianamirian/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/adriana-mirian-mendes-cardoso/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 
 ## 🔧 Ferramentas e Tecnologias
 
