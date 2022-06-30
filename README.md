@@ -1,9 +1,11 @@
 <h1 align='center'>
-   Olá Devs 👋
+   Olá Devs👋
 </h1>
 
 
-Sejam bem vindos ao meu perfil do Github. Meu nome é Adriana Mendes, sou engenheira de computação e apaixonada por tecnologia. Caso deseje entrar em contato comigo segue abaixo meus endereço eletrônico:
+Sejam bem vindos ao meu perfil do Github. Meu nome é Adriana Mendes, sou engenheira de computação e apaixonada por tecnologia. Tenho como objetivo atuar na área da tecnologia da informação, com análise e/ou desenvolvimento de sistemas com Java Spring, Nodejs ou Angular. Durante a minha experiência de estágio, trabalhei com diferentes tecnologias de Front end e Back end utilizando GIT e Swagger, e no desenvolvimento WEB Java Spring e Angular. Atualmente busco por uma oportunidade de trabalho e sigo me qualificando empenhada em aprender novas tecnologias.
+
+Caso deseje entrar em contato comigo segue abaixo meus endereço eletrônico:
 
 <h1 align='center'>
    <a href="https://www.instagram.com/_adrianamirian/">
