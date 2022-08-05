@@ -8,9 +8,6 @@ Sejam bem vindos ao meu perfil do Github. Meu nome é Adriana Mendes, sou engenh
 Caso deseje entrar em contato comigo segue abaixo meus endereço eletrônico:
 
 <h1 align='center'>
-   <a href="https://www.instagram.com/_adrianamirian/">
-  <img alt="Abhishek's Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
 <a href="https://www.linkedin.com/in/adriana-mirian-mendes-cardoso/">
   <img alt="Abhishek's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
