@@ -3,9 +3,9 @@
 </h1>
 
 
-Sejam bem vindos ao meu perfil do Github. Meu nome é Adriana Mendes, sou engenheira de computação e apaixonada por tecnologia. Tenho como objetivo atuar na área da tecnologia da informação, com análise e/ou desenvolvimento de sistemas com Java Spring, Nodejs ou Angular. Atualmente sigo me qualificando empenhada em aprender novas tecnologias.
+Sejam bem vindos ao meu perfil do Github. Meu nome é Adriana Mendes, sou engenheira de computação e apaixonada por tecnologia. Tenho como objetivo atuar na área da tecnologia da informação, com análise e/ou desenvolvimento de sistemas com Java Spring, Nodejs ou Angular. Atualmente sigo carreira na área da tecnologia da informação com desenvolvimento de sistemas java.
 
-Caso deseje entrar em contato comigo segue abaixo meu endereço eletrônico:
+Caso deseje entrar em contato comigo:
 
 <h1 align='center'>
 <a href="https://www.linkedin.com/in/adriana-mirian-mendes-cardoso/">
