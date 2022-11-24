@@ -3,7 +3,7 @@
 </h1>
 
 
-Sejam bem vindos ao meu perfil do Github. Meu nome é Adriana, sou engenheira de computação e apaixonada por tecnologia. Tenho como objetivo atuar na área da tecnologia da informação, com análise e/ou desenvolvimento de sistemas com Java Spring. Atualmente sigo carreira na área da tecnologia da informação com desenvolvimento de sistemas Java.
+Sejam bem vindos ao meu perfil do Github. Meu nome é Adriana, sou engenheira de computação e apaixonada por tecnologia. Atualmente sigo carreira na área da tecnologia da informação com desenvolvimento de sistemas Java.
 
 Caso deseje entrar em contato comigo:
 
