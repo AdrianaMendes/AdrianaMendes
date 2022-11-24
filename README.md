@@ -3,9 +3,7 @@
 </h1>
 
 
-Sejam bem vindos ao meu perfil do Github. Meu nome é Adriana, sou engenheira de computação e apaixonada por tecnologia. Atualmente sigo carreira na área da tecnologia da informação com desenvolvimento de sistemas Java.
-
-Caso deseje entrar em contato comigo:
+Sejam bem vindos ao meu perfil do Github. Meu nome é Adriana, sou engenheira de computação e apaixonada por tecnologia. Atualmente sigo carreira na área da tecnologia da informação com desenvolvimento de sistemas Java. Caso deseje entrar em contato comigo:
 
 <h1 align='center'>
 <a href="https://www.linkedin.com/in/adriana-mirian-mendes-cardoso/">
