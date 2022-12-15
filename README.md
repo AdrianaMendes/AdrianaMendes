@@ -2,8 +2,7 @@
    Hello Devs👋
 </h1>
 
-
-Sejam bem vindos ao meu perfil do Github. Meu nome é Adriana, sou engenheira de computação e apaixonada por tecnologia. Atualmente sigo carreira na área da tecnologia da informação com desenvolvimento de sistemas Java. Caso deseje entrar em contato comigo:
+Welcome to my Github profile. My name is Adriana, I'm a computer engineer and passionate about technology. Currently I am a software developer with problem solving skills and proven experience building Java Spring applications. Should you need any further information, please do not hesitate to contact me:
 
 <h1 align='center'>
 <a href="https://www.linkedin.com/in/adriana-mirian-mendes-cardoso/">
@@ -11,7 +10,7 @@ Sejam bem vindos ao meu perfil do Github. Meu nome é Adriana, sou engenheira de
 </a>
 </h1>
 
-## Ferramentas e Tecnologias
+## Tools and Technologies
 
 <h1 align='center'>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
@@ -24,7 +23,7 @@ Sejam bem vindos ao meu perfil do Github. Meu nome é Adriana, sou engenheira de
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </h1>
 
-## Atividades no GitHub
+## Activities on GitHub
 
 <h1 align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianaMendes&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="175px"/></a>
