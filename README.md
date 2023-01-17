@@ -2,7 +2,7 @@
    Hello Devs👋
 </h1>
 
-Welcome to my Github profile. My name is Adriana, graduated in Computer Engineering and passionate about technology. Currently I am a software developer with problem solving skills and proven experience building Java Spring applications. Should you need any further information, please do not hesitate to contact me:
+Welcome to my Github profile. My name is Adriana, graduated in Computer Engineering and passionate about technology. Currently I am Java developer with problem solving skills and proven experience building Java Spring applications. Should you need any further information, please do not hesitate to contact me:
 
 <h1 align='center'>
 <a href="https://www.linkedin.com/in/adriana-mirian-mendes-cardoso/">
