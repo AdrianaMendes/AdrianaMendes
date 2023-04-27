@@ -2,7 +2,7 @@
    Hello Devs👋
 </h1>
 
-Welcome to my github profile. I'm Adriana, graduated in Computer Engineering and passionate about technology. Currently, I'm java developer with proven experience building Java Spring applications. Should you need any further information, please do not hesitate to contact me:
+Welcome to my github profile. I'm Adriana, please do not hesitate to contact me:
 
 <h1 align='center'>
 <a href="https://www.linkedin.com/in/adriana-mirian-mendes-cardoso/">
@@ -21,11 +21,5 @@ Welcome to my github profile. I'm Adriana, graduated in Computer Engineering and
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-</h1>
-
-## Activities on GitHub
-
-<h1 align='center'>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianaMendes&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="175px"/></a>
 </h1>
 
