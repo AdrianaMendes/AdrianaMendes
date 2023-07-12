@@ -1,7 +1,3 @@
 <h1 align='center'>
-   Hello Devs👋
+   Hello, welcome to my github profile! 👋
 </h1>
-
-Welcome to my github profile. 
-</h1>
-
