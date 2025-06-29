@@ -49,7 +49,7 @@ API backend em Java, Spring Boot para gerenciamento de tarefas. Utiliza Lombok, 
 ### 🚦 [Radar Center](https://github.com/AdrianaMendes/bdr-desafio-radar-center)  
 API para central de infrações de trânsito, construída com **Java 11**, **Spring Boot** e **PostgreSQL**. Frontend em **Angular**, com atualização automática de dados e dashboard dinâmico. Documentação completa com **Swagger**.
 
-### ☕ [Nosso Café](https://github.com/AdrianaMendes/unidac-grupo-wl-desafio-unidac-grupo-wl)  
+### ☕ [Nosso Café](https://github.com/AdrianaMendes/unidac-desafio-java)  
 API para gerenciar itens do café da manhã entre colaboradores. Backend em **Java**, **Spring Boot** + **Lombok**, frontend em **Angular**, testes com banco H2, hospedagem no **Heroku**.
 
 ---
