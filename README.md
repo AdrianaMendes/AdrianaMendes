@@ -60,7 +60,7 @@ API para gerenciar itens do café da manhã entre colaboradores. Backend em **Ja
   
 
 <p align="center">
-  Obrigada por passar por aqui! 💻✨
+  Obrigada por visitar meu perfil! 🚀
 </p>
 
 
