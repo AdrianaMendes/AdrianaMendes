@@ -43,6 +43,9 @@ Recentemente tenho me aventurado no universo React para deixar meus frontends ai
 ### 🛵 [Entrega pra Mim](https://github.com/AdrianaMendes/tcc2-backend)  
 Backend com **NestJS**, API documentada via **Swagger**, hospedada no **Heroku** e integrada ao **Amazon S3** para armazenar imagens. Painel administrativo em **Angular**, autenticação segura via **JWT** e app mobile desenvolvido em **Ionic**.
 
+### 📋 [TO-DO](https://github.com/AdrianaMendes/java-viceri-to-do)
+API backend em Java, Spring Boot para gerenciamento de tarefas. Utiliza Lombok, Swagger e JWT, com banco de testes em H2. Estruturado com separação de responsabilidades e autenticação baseada em token.
+
 ### 🚦 [Radar Center](https://github.com/AdrianaMendes/bdr-desafio-radar-center)  
 API para central de infrações de trânsito, construída com **Java 11**, **Spring Boot** e **PostgreSQL**. Frontend em **Angular**, com atualização automática de dados e dashboard dinâmico. Documentação completa com **Swagger**.
 
@@ -51,14 +54,10 @@ API para gerenciar itens do café da manhã entre colaboradores. Backend em **Ja
 
 ---
 
-## 📊 Meu GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdrianaMendes&show_icons=true&theme=react" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianaMendes&layout=compact&theme=react" />
-</p>
-
----
+📧 Email: adrianamirianmc@gmail.com  
+💼 LinkedIn: [amendescardoso](https://www.linkedin.com/in/amendescardoso/)  
+🌍 Disponível para trabalho remoto e freelance
+  
 
 <p align="center">
   Obrigada por passar por aqui! 💻✨
