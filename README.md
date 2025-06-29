@@ -19,7 +19,7 @@
 ## ✨ Sobre mim
 
 Oi! Eu sou a Adriana, formada em Engenharia de Computação pela UFOP. Domino Java, Spring Boot, Angular e PostgreSQL.
-Recentemente tenho me aventurado no universo React para deixar meus frontends ainda mais incríveis. Meu foco? Criar soluções que sejam escaláveis, elegantes e que sigam as melhores práticas de desenvolvimento.
+Recentemente tenho me aventurado no universo React para frontend. Meu foco é criar soluções que sejam escaláveis, elegantes e que sigam as melhores práticas de desenvolvimento.
 
 ---
 
