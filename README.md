@@ -38,7 +38,7 @@ Recentemente tenho me aventurado no universo React para deixar meus frontends ai
 
 ---
 
-## 🚀 Projetos que me fazem vibrar
+## 🚀 Projetos em destaque
 
 ### 🛵 [Entrega pra Mim](https://github.com/AdrianaMendes/tcc2-backend)  
 Backend com **NestJS**, API documentada via **Swagger**, hospedada no **Heroku** e integrada ao **Amazon S3** para armazenar imagens. Painel administrativo em **Angular**, autenticação segura via **JWT** e app mobile desenvolvido em **Ionic**.
