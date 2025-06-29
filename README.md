@@ -41,13 +41,13 @@ Recentemente tenho me aventurado no universo React para deixar meus frontends ai
 ## 🚀 Projetos que me fazem vibrar
 
 ### 🛵 [Entrega pra Mim](https://github.com/AdrianaMendes/tcc2-backend)  
-Backend com **NestJS**, API documentada via **Swagger**, hospedada no **Heroku** e integrada ao **Amazon S3** para armazenar imagens. Painel administrativo em **Angular**, autenticação segura via **JWT** e app cliente feito com **Ionic** — tudo para uma entrega que conecta gente e tecnologia.
+Backend com **NestJS**, API documentada via **Swagger**, hospedada no **Heroku** e integrada ao **Amazon S3** para armazenar imagens. Painel administrativo em **Angular**, autenticação segura via **JWT** e app mobile desenvolvido em **Ionic**.
 
 ### 🚦 [Radar Center](https://github.com/AdrianaMendes/bdr-desafio-radar-center)  
 API para central de infrações de trânsito, construída com **Java 11**, **Spring Boot** e **PostgreSQL**. Frontend em **Angular**, com atualização automática de dados e dashboard dinâmico. Documentação completa com **Swagger**.
 
 ### ☕ [Nosso Café](https://github.com/AdrianaMendes/unidac-grupo-wl-desafio-unidac-grupo-wl)  
-App web para gerenciar itens do café da manhã entre colaboradores. Backend em **Spring Boot** + **Lombok**, frontend em **Angular**, testes com banco H2, hospedagem no **Heroku** e regionalização para deixar tudo no ponto!
+API para gerenciar itens do café da manhã entre colaboradores. Backend em **Java**, **Spring Boot** + **Lombok**, frontend em **Angular**, testes com banco H2, hospedagem no **Heroku**.
 
 ---
 
