@@ -46,7 +46,6 @@ API para gerenciar itens do café da manhã entre colaboradores. Backend em **Ja
 ---
 
 📧 Email: adrianamirianmc@gmail.com  
-💼 LinkedIn: [amendescardoso](https://www.linkedin.com/in/amendescardoso/)  
 🌍 Disponível para trabalho remoto e freelance
   
 
