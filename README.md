@@ -29,22 +29,6 @@ Recentemente tenho me aventurado no universo React para frontend. Meu foco é cr
 
 ---
 
-## 🚀 Projetos em destaque
-
-### 🛵 [Entrega pra Mim](https://github.com/AdrianaMendes/tcc2-backend)  
-Backend com **NestJS**, API documentada via **Swagger**, hospedada no **Heroku** e integrada ao **Amazon S3** para armazenar imagens. Painel administrativo em **Angular**, autenticação segura via **JWT** e app mobile desenvolvido em **Ionic**.
-
-### 📋 [TO-DO](https://github.com/AdrianaMendes/java-viceri-to-do)
-API backend em Java, Spring Boot para gerenciamento de tarefas. Utiliza Lombok, Swagger e JWT, com banco de testes em H2. Estruturado com separação de responsabilidades e autenticação baseada em token.
-
-### 🚦 [Radar Center](https://github.com/AdrianaMendes/desafio-radar-center)  
-API para central de infrações de trânsito, construída com **Java 11**, **Spring Boot** e **PostgreSQL**. Frontend em **Angular**, com atualização automática de dados e dashboard dinâmico. Documentação completa com **Swagger**.
-
-### ☕ [Nosso Café](https://github.com/AdrianaMendes/unidac-desafio-java)  
-API para gerenciar itens do café da manhã entre colaboradores. Backend em **Java**, **Spring Boot** + **Lombok**, frontend em **Angular**, testes com banco H2, hospedagem no **Heroku**.
-
----
-
 📧 Email: adrianamirianmc@gmail.com  
 🌍 Disponível para trabalho remoto e freelance
   
